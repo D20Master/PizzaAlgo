@@ -1,10 +1,15 @@
 1.Decide on a business to order your pizza from.
-    a. Must be 4 stars or higher
+    a. Must be 4 stars or higher.
+        1.https://www.yelp.com/search?find_desc=pizza&find_loc=Birmingham%2C%20AL&ns=1&cflt=pizza&sortby=rating
+    b. How much are you willing to spend?
+        1. Cheap : https://www.yelp.com/search?find_desc=pizza&find_loc=Birmingham%2C%20AL&ns=1&ed_attrs=RestaurantsPriceRange2.4&attrs=RestaurantsPriceRange2.1 
+        2. Expensive : https://www.yelp.com/search?find_desc=pizza&find_loc=Birmingham%2C%20AL&ns=1&ed_attrs=RestaurantsPriceRange2.1%2CRestaurantsPriceRange2.2%2CRestaurantsPriceRange2.4&attrs=RestaurantsPriceRange2.3
 2.Go through the menu.
     a. Check for deals on the menu.
 3.Choose the pizza that you want.
+    a. Look for suggestions & images from reviewers.
 4.Place the order.
-    a. Choose method of order (Online or Phone)
+    a. Choose order method (Online or Phone).
 5.Make a payement.
     a. Select card that recieves the most points.
     
